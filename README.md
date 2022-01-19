@@ -4,6 +4,8 @@
 
 [Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI) 
 por [Venilton FalvoJr](https://github.com/falvojr)
+
+
 Transmitido ao vivo em 02/08/2021
 
 ---
@@ -11,5 +13,3 @@ Transmitido ao vivo em 02/08/2021
 **Desafio:** Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário: 
 
 > “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
-
----
