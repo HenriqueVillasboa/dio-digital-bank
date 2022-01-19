@@ -1,4 +1,6 @@
-public class SavingAccount extends Account{
+package br.com.dio;
+
+public class SavingAccount extends Account {
 
     public SavingAccount(Client client){
         super(client);

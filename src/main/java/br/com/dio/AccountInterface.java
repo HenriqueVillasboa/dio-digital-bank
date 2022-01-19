@@ -1,3 +1,5 @@
+package br.com.dio;
+
 public interface AccountInterface {
 
     void withdraw(double value);

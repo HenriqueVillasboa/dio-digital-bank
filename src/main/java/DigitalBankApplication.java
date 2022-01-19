@@ -1,3 +1,8 @@
+import br.com.dio.Account;
+import br.com.dio.CheckingAccount;
+import br.com.dio.Client;
+import br.com.dio.SavingAccount;
+
 public class DigitalBankApplication {
 
     public static void main(String[] args) {
